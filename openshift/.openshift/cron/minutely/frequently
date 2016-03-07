@@ -1,0 +1,2 @@
+#!/bin/bash
+/usr/bin/curl -s -L 'http://pmo-maventrix.rhcloud.com/public/index.php?path_info=frequently&code=LICEN' > /dev/null
