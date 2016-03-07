@@ -1,2 +1,2 @@
 #!/bin/bash
-/usr/bin/curl -s -L 'http://pmo-maventrix.rhcloud.com/public/index.php?path_info=frequently&code=LICEN' > /dev/null
+php '/var/lib/openshift/56ddbab70c1e660ee900004b/app-root/runtime/repo/tasks/frequently.php' 'LICEN' > /dev/null

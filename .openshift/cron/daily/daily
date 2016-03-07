@@ -1,0 +1,2 @@
+#!/bin/bash
+php '/var/lib/openshift/56ddbab70c1e660ee900004b/app-root/runtime/repo/tasks/daily.php' 'LICEN' > /dev/null
